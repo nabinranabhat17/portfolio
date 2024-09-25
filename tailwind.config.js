@@ -7,7 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        manrope: ['Manrope', 'sans-serif'],
+      },
       colors: {
+        "yellow": "#D3E97A",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
