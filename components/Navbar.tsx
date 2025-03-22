@@ -40,7 +40,7 @@ const Navbar = () => {
     >
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
         <Link href="#home" className="text-2xl font-bold text-primary">
-          Portfolio.
+          Nabin Ranabhat
         </Link>
 
         {/* Desktop Menu */}
